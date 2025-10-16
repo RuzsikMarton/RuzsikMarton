@@ -4,7 +4,7 @@
   </h1>
   <h3><b>Full-Stack Developer • System Architect • DevOps Engineer</b></h3>
   <p><small><i>
-    – Industrial confusion & inconvenience engineering<br>
+    – Turning everyday confusion into scalable production issues<br>
     – Force push and pray Σ(っ °Д °;)っ
   </i></small></p>
   <br>
@@ -21,14 +21,12 @@
 - 🌱 I'm currently learning ...
   - *Next JS*
   - *Machine Learning & AI*
-  - *DevOps & Container Technologies*
+  - *AWS & Cloud Services*
+  - *Testing & QA Tools*
 - 🚀 I'm eager to work on new projects and collaborate with other developers.
 - 🤔 I’m looking for help with ...
 - Outside tech, I enjoy exploring new technologies, 🎮 gaming, 🎵 listening to music, and working out.
 - 📫 Reach out to me for collaboration opportunities!
-
-
-## 🌐 Socials:
 <br>
 <!-- Social Links -->
 <div align="center">
