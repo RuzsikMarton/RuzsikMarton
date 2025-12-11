@@ -139,7 +139,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuzsikMarton&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
 </p>
 <br>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
