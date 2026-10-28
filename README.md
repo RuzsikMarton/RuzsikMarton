@@ -45,9 +45,9 @@
 
 #### Tools & Infrastructure
 [![My Skills2](https://skillicons.dev/icons?i=postgres,mongo,mysql,vercel,docker,kubernetes,aws,postman,figma,webpack&perline=10)](https://skillicons.dev)
-<div align="left">
+<!--<div align="left">
   <img src="https://img.shields.io/badge/drizzle-000000.svg?style=for-the-badge&logo=drizzle&logoColor=green" alt="Drizzle" />
-</div>
+</div>-->
 
 <!-- Old Skills section -->
 <!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
