@@ -22,9 +22,9 @@
   - *Machine Learning & AI*
   - *AWS & Cloud Services*
   - *Testing & QA Tools*
-- 🚀 I'm eager to work on new projects and collaborate with other developers.<!--- 🤔 I’m looking for help with ... -->
-- When I’m not coding, I love 🏍️ riding motorcycles, 🎮 gaming, 📚 reading, and 💪 hitting the gym — and I’m always curious to explore new technologies.
-- 📫 Reach out to me for collaboration opportunities!
+ - 🚀 I'm eager to work on new projects and collaborate with other developers.<!--- 🤔 I’m looking for help with ... -->
+<!-- - When I’m not coding, I love 🏍️ riding motorcycles, 🎮 gaming, 📚 reading, and 💪 hitting the gym — and I’m always curious to explore new technologies.
+- 📫 Reach out to me for collaboration opportunities! -->
 <br>
 <!-- Social Links -->
 <div align="center">
@@ -40,7 +40,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,python,cpp,cs,nodejs,express,fastapi,prisma,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,prisma,tailwind,python,fastapi,cpp,cs&perline=10)](https://skillicons.dev)
 
 
 #### Tools & Infrastructure
